@@ -1,5 +1,5 @@
 # Newsletter-with-Mailchimp
 
 ### Feature:
-> Used Mailchimp API
+> Used Mailchimp API &
 > Subscription window 
